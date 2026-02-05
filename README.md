@@ -46,7 +46,6 @@ The project is organized into 5 sequential SQL scripts:
 ### 5️⃣ Product & Inventory Analysis
 * 📄 **File:** `04_product_inventory_analysis.sql`
 * **Key Insights:**
-    * **Pareto Principle (80/20):** Identified the vital few products driving the majority of sales.
     * **Market Basket Analysis:** Discovered frequently bought-together items to suggest bundle offers.
     * **Supply Chain:** Analyzed return rates and late shipping percentages per distribution center.
 
@@ -76,12 +75,7 @@ The project is organized into 5 sequential SQL scripts:
   </a>
   &nbsp; &nbsp;
   
-  <a href="حط_لينك_الجيت_هاب_بتاعك_هنا" target="_blank">
+  <a href="https://github.com/Mahmoud-Abd-Elhadi" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
   </a>
   &nbsp; &nbsp;
-
-  <a href="حط_لينك_معرض_اعمالك_هنا" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio" width="40"/>
-  </a>
-</p>
