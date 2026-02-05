@@ -67,7 +67,7 @@ The project is organized into 5 sequential SQL scripts:
 
 ## 👤 Author
 **[Mahmoud Abd Elhadi]**
-*Data Analyst *
+*Data Analyst*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmoud-abd-elhadi/" target="_blank">
