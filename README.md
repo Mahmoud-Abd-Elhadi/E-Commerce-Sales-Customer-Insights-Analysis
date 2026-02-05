@@ -69,4 +69,19 @@ The project is organized into 5 sequential SQL scripts:
 ## 👤 Author
 **[Your Name]**
 *Data Analyst | SQL Enthusiast*
-[LinkedIn Profile Link] | [Portfolio Link]
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-abd-elhadi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp; &nbsp;
+  
+  <a href="حط_لينك_الجيت_هاب_بتاعك_هنا" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
+  </a>
+  &nbsp; &nbsp;
+
+  <a href="حط_لينك_معرض_اعمالك_هنا" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio" width="40"/>
+  </a>
+</p>
