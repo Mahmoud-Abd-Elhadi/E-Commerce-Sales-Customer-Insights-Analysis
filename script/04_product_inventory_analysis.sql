@@ -1,6 +1,6 @@
 /*
 ================================================================================
-File Name   : 05_product_inventory_analysis.sql
+File Name   : product_inventory_analysis.sql
 Project     : E-Commerce Data Analysis Portfolio
 Database    : [ecommerce]
 ================================================================================
