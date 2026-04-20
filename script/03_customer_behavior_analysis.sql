@@ -1,6 +1,6 @@
 /*
 ================================================================================
-File Name   : 06_customer_segmentation_analysis.sql
+File Name   : 03_customer_segmentation_analysis.sql
 Project     : E-Commerce Data Analysis Portfolio
 Database    : [ecommerce]
 ================================================================================
@@ -125,7 +125,7 @@ SELECT TOP 10
 FROM [ecommerce].[fact_order_items] AS EFOI
 JOIN [ecommerce].[dim_users]        AS EDU
 ON EFOI.[user_id] = EDU.id 
-WHERE [state] = 'complete'
+WHERE [status] = 'complete'
 GROUP BY EDU.id , CONCAT(EDU.first_name , ' ' , EDU.last_name) , EDU.country 
 ORDER BY lifetime_value DESC
 
