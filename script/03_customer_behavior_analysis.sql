@@ -1,6 +1,6 @@
 /*
 ================================================================================
-File Name   : 03_customer_segmentation_analysis.sql
+File Name   : customer_segmentation_analysis.sql
 Project     : E-Commerce Data Analysis Portfolio
 Database    : [ecommerce]
 ================================================================================
