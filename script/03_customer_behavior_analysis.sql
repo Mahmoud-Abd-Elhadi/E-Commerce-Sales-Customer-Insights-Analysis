@@ -254,7 +254,7 @@ WITH RFM_Base AS (
     SELECT 
         [user_id],
         MAX(created_at) AS last_order_date,
-        COUNT(order_id) AS frequency,
+        COUNT(DISTINCT order_id) AS frequency,
         SUM(sale_price) AS monetary,
         DATEDIFF(DAY, MAX(created_at), (SELECT MAX(created_at) FROM ecommerce.fact_order_items)) AS recency_days
     FROM ecommerce.fact_order_items
