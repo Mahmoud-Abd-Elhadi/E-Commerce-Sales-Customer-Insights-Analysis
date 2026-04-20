@@ -1,6 +1,6 @@
 /*
 ================================================================================
-File Name   : 02_sales_and_revenue_analysis.sql
+File Name   : sales_and_revenue_analysis.sql
 Project     : E-Commerce Data Analysis Portfolio
 Database    : [ecommerce]
 ================================================================================
