@@ -10,7 +10,7 @@ This project is an **end-to-end data analysis portfolio** utilizing **Microsoft 
 
 <p align="center">
   <img src="https://github.com/Mahmoud-Abd-Elhadi/E-Commerce-Sales-Customer-Insights-Analysis/blob/main/Image/Screenshot%202026-04-27%20143942.png" />
-" alt="E-Commerce Dashboard Screenshot" width="100%">
+"alt="E-Commerce Dashboard Screenshot" width="100%">
 </p>
 
 The analysis follows a structured workflow: **Data Modeling → Cleaning → Exploratory Analysis → Advanced Segmentation (RFM) → Supply Chain Optimization.**
