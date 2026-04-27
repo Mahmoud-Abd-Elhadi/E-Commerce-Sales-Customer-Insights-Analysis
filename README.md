@@ -9,7 +9,7 @@ This project is an **end-to-end data analysis portfolio** utilizing **Microsoft 
 [🔗 View Dashboard on NovyPro - Direct Mode](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777289792707x526268537324361200)
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/Mahmoud-Abd-Elhadi/E-Commerce-Sales-Customer-Insights-Analysis/blob/main/Image/Screenshot%202026-04-27%20143942.png" />
 " alt="E-Commerce Dashboard Screenshot" width="100%">
 </p>
 
