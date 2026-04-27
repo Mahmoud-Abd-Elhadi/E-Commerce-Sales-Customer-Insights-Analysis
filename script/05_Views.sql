@@ -196,3 +196,24 @@ GO
 	GROUP BY EDP.[id]  ,
 			 EDP.[name] ,
 			 EDP.category
+
+-- =============================================================================
+-- SECTION 6: USER EVENT & TRAFFIC ANALYSIS (PERFORMANCE OPTIMIZED)
+-- Business Question: How can we track daily user interactions and traffic sources efficiently?
+-- =============================================================================
+
+CREATE VIEW vw_Events_Summary AS
+SELECT 
+    CAST(created_at AS DATE) AS event_date,
+    event_type,
+    traffic_source,
+    browser,
+    COUNT(id) AS total_events,
+    COUNT(DISTINCT user_id) AS unique_users
+
+FROM [ecommerce].[fact_events]
+GROUP BY 
+    CAST(created_at AS DATE), 
+    event_type, 
+    traffic_source, 
+    browser;
