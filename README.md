@@ -4,9 +4,9 @@
 This project is an **end-to-end data analysis portfolio** utilizing **Microsoft SQL Server** to analyze a large dataset for a fictional e-commerce company. The goal is to derive actionable insights regarding sales trends, customer behavior, and inventory efficiency to support business decision-making.
 
 ## 🚀 Live Interactive Dashboard
-[🔗 View Dashboard on NovyPro](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777292632132x723168410276845800)
+[🔗 View Dashboard on NovyPro - Import Mode](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777292632132x723168410276845800)
 
-[🔗 View Dashboard on NovyPro](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777289792707x526268537324361200)
+[🔗 View Dashboard on NovyPro - Direct Mode](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777289792707x526268537324361200)
 
 The analysis follows a structured workflow: **Data Modeling → Cleaning → Exploratory Analysis → Advanced Segmentation (RFM) → Supply Chain Optimization.**
 
