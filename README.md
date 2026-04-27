@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 This project is an **end-to-end data analysis portfolio** utilizing **Microsoft SQL Server** to analyze a large dataset for a fictional e-commerce company. The goal is to derive actionable insights regarding sales trends, customer behavior, and inventory efficiency to support business decision-making.
 
+## 🚀 Live Interactive Dashboard
+[🔗 View Dashboard on NovyPro](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777292632132x723168410276845800)
+
+[🔗 View Dashboard on NovyPro](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777289792707x526268537324361200)
+
 The analysis follows a structured workflow: **Data Modeling → Cleaning → Exploratory Analysis → Advanced Segmentation (RFM) → Supply Chain Optimization.**
 
 ## 🛠️ Tools & Technologies
@@ -48,7 +53,10 @@ The project is organized into 5 sequential SQL scripts:
 * **Key Insights:**
     * **Market Basket Analysis:** Discovered frequently bought-together items to suggest bundle offers.
     * **Supply Chain:** Analyzed return rates and late shipping percentages per distribution center.
-
+    * 
+### 6️⃣ Power BI Dashboards
+* 📊 `The_Looker_DirectQuery.pbix`: Showcases live connectivity and Gateway integration.
+* ⚡ `The_Looker_Import_Optimized.pbix`: High-performance version (Optimized for NovyPro).
 ---
 
 ## 💡 Key Findings & Recommendations
