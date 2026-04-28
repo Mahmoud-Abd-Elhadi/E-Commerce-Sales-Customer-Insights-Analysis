@@ -3,11 +3,25 @@
 ## 📌 Project Overview
 This project is an **end-to-end data analysis portfolio** utilizing **Microsoft SQL Server** to analyze a large dataset for a fictional e-commerce company. The goal is to derive actionable insights regarding sales trends, customer behavior, and inventory efficiency to support business decision-making.
 
-## 🚀 Live Interactive Dashboard
-[🔗 View Dashboard on NovyPro - Import Mode](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777292632132x723168410276845800)
+### 🚀 Connectivity Strategy & Performance Tuning
 
-[🔗 View Dashboard on NovyPro - Direct Mode](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777289792707x526268537324361200)
+To demonstrate a deep understanding of Power BI architecture and data scalability, I developed two versions of the dashboard with different connectivity modes:
 
+#### 1. **DirectQuery & Mixed Mode (Live Connection)**
+* **Architecture:** Designed for real-time data synchronization with the SQL Server Warehouse.
+* **Challenge:** During development, high-density visuals (like global maps) and complex measures caused latency issues and "Resource Exceeded" errors due to the constant load on the database engine.
+* **Outcome:** This version is ideal for operational scenarios where live data is mandatory, but it requires substantial server resources.
+
+#### 2. **Import Mode (Optimized Version) - RECOMMENDED**
+* **Architecture:** This is the high-performance version created to solve performance bottlenecks ("Tahneeg" issues).
+* **Optimization:** By migrating the data to **Import Mode (In-memory)**, I utilized the **VertiPaq engine** for massive data compression.
+* **Result:** Achieved instantaneous filter responses and seamless interaction across all report pages, ensuring the best user experience for executive decision-making.
+
+---
+
+### 🔗 Project Live Versions on NovyPro:
+* **[⚡ View Optimized Import Version (Fast & Smooth)](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777292632132x723168410276845800)**
+* **[🔗 View DirectQuery Version (Real-Time Architecture)](رابط_الـ_Direct_هنا)**
 <p align="center">
   <img src="https://github.com/Mahmoud-Abd-Elhadi/E-Commerce-Sales-Customer-Insights-Analysis/blob/main/Image/Screenshot%202026-04-27%20143942.png" />
 </p>
