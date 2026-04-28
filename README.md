@@ -28,8 +28,7 @@ To demonstrate a deep understanding of Power BI architecture and data scalabilit
 </p>
 
 ### 🔗 View Pdf Of Project:
-* [⚡ View Pdf Of Project (Fast)](https://github.com/Mahmoud-Abd-Elhadi/E-Commerce-Sales-Customer-Insights-Analysis/blob/main/PDF/Looker%20Sales%20%26%20Operation%20Dashboard%20Import.pdf)
-[📄 View Project Documentation (PDF)](https://github.com/Mahmoud-Abd-Elhadi/E-Commerce-Sales-Customer-Insights-Analysis/blob/main/PDF/Looker%20Sales%20%26%20Operation%20Dashboard%20Import.pdf)
+* [⚡ View Pdf of project (Fast)](https://github.com/Mahmoud-Abd-Elhadi/E-Commerce-Sales-Customer-Insights-Analysis/blob/main/PDF/Looker%20Sales%20%26%20Operation%20Dashboard%20Import.pdf)
 
 The analysis follows a structured workflow: **Data Modeling → Cleaning → Exploratory Analysis → Advanced Segmentation (RFM) → Supply Chain Optimization.**
 
