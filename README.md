@@ -21,7 +21,7 @@ To demonstrate a deep understanding of Power BI architecture and data scalabilit
 
 ### 🔗 Project Live Versions on NovyPro:
 * **[⚡ View Optimized Import Version (Fast & Smooth)](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777292632132x723168410276845800)**
-* **[🔗 View DirectQuery Version (Real-Time Architecture)](رابط_الـ_Direct_هنا)**
+* **[🔗 View DirectQuery Version (Real-Time Architecture)](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1777289792707x526268537324361200)**
 <p align="center">
   <img src="https://github.com/Mahmoud-Abd-Elhadi/E-Commerce-Sales-Customer-Insights-Analysis/blob/main/Image/Screenshot%202026-04-27%20143942.png" />
 </p>
